@@ -1854,7 +1854,7 @@ break
         'Visit', // Button display text
         'https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK', // Command (URL in this case)
         'cta_url', // Button type
-        'https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK' // URL (used in image generation)
+        'https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ' // URL (used in image generation)
     ], 
 ];
 
@@ -16972,19 +16972,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -17022,19 +17022,19 @@ let msg = generateWAMessageFromContent(m.chat, {
                   buttons: [
              {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -17083,7 +17083,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -17174,19 +17174,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -18011,19 +18011,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -18061,19 +18061,19 @@ let msg = generateWAMessageFromContent(m.chat, {
                   buttons: [
              {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -18122,7 +18122,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18213,19 +18213,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -18498,19 +18498,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -18548,19 +18548,19 @@ let msg = generateWAMessageFromContent(m.chat, {
                   buttons: [
              {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -18609,7 +18609,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -18700,19 +18700,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -18965,19 +18965,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -19015,19 +19015,19 @@ let msg = generateWAMessageFromContent(m.chat, {
                   buttons: [
              {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -19076,7 +19076,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19167,19 +19167,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	     }
            ],
           }),
@@ -19386,19 +19386,19 @@ let msg = generateWAMessageFromContent(m.chat, {
             buttons: [
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -19448,7 +19448,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -19497,7 +19497,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -19588,19 +19588,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -19833,7 +19833,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -19883,7 +19883,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -19932,7 +19932,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"📶 ALL MENU 🎊",
 "title":"click to display",
@@ -20023,19 +20023,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -20285,7 +20285,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -20335,7 +20335,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               },              
               {
   "name": "quick_reply",
@@ -20388,7 +20388,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -20479,19 +20479,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -20710,7 +20710,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -20760,7 +20760,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -20809,7 +20809,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -20900,19 +20900,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -21176,7 +21176,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -21226,7 +21226,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -21275,7 +21275,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21366,19 +21366,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -21593,7 +21593,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -21643,7 +21643,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -21692,7 +21692,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -21783,19 +21783,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -22006,7 +22006,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -22056,7 +22056,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -22105,7 +22105,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22196,19 +22196,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -22434,7 +22434,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -22484,7 +22484,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -22533,7 +22533,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -22624,19 +22624,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -22857,7 +22857,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -22907,7 +22907,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -22956,7 +22956,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23047,19 +23047,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -23330,7 +23330,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -23380,7 +23380,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -23429,7 +23429,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23520,19 +23520,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -23746,7 +23746,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -23796,7 +23796,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -23845,7 +23845,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -23936,19 +23936,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -24290,7 +24290,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -24340,7 +24340,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -24389,7 +24389,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24480,19 +24480,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 		      }
            ],
           }),
@@ -24713,7 +24713,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -24763,7 +24763,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -24812,7 +24812,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -24903,19 +24903,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -25130,7 +25130,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -25180,7 +25180,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -25229,7 +25229,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25320,19 +25320,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -25544,7 +25544,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
   "name": "quick_reply",
@@ -25598,7 +25598,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -25647,7 +25647,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -25738,19 +25738,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -25960,7 +25960,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               } 
            ],
           })
@@ -26010,7 +26010,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -26059,7 +26059,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26150,19 +26150,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -26378,7 +26378,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -26428,7 +26428,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -26477,7 +26477,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26568,19 +26568,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
@@ -26803,7 +26803,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
            ],
           })
@@ -26853,7 +26853,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 💌\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
               }
                                   ],
                 }),
@@ -26902,7 +26902,7 @@ let msg = generateWAMessageFromContent(m.chat, {
               {
                 "name": "single_select",
                 "buttonParamsJson": 
-`{"title":"GLOBAL MENU",
+`{"title":"ROSE MENU",
 "sections":[{"title":"${botname}",
 "rows":[{"header":"🧲 ALL MENU 🎊",
 "title":"click to display",
@@ -26993,19 +26993,19 @@ let msg = generateWAMessageFromContent(m.chat, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"YouTube 📶\",\"url\":\"https://youtube.com/@kitsubfox\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"Telegram 🌠\",\"url\":\"https://t.me/GlobalTechInc\",\"merchant_url\":\"https://www.google.com\"}"
+                "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/GlobalTechInfo\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"GitHub ID 🎩\",\"url\":\"https://github.com/Zeus30007\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/CodjsOI43Ek2PXdQOC1iZK\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"WhatsApp 📱\",\"url\":\"https://chat.whatsapp.com/JTDVwBF6GiV5aEoZkcWNLQ\",\"merchant_url\":\"https://www.google.com\"}"
 	      }
            ],
           }),
